@@ -1,0 +1,50 @@
+* {
+    color:white;
+    background-color:black;
+    
+}
+
+.headingp {
+
+    color:chartreuse;
+    font-family:italic;
+    font-weight: 1000px;
+    text-align: center;
+    font-size: 100px;
+
+}
+
+a {
+    color: black;
+    background-color: rgb(180, 197, 195);
+    font-weight: 1000;
+    font-size: 30px;
+    padding: 50px;
+    margin: 10px;
+    display: border-box;
+
+}
+
+.a {
+    color:chartreuse;
+    background-color: rgb(180, 197, 195);
+    font-weight: 1000;
+    font-size: 30px;
+    padding: 50px;
+    margin: 10px;
+    display: border-box;
+    border: 2px solid white;
+
+}
+
+
+.tittle {
+
+    color:greenyellow;
+    font-size: 40px;
+}
+
+.subhead {
+
+    font-size: 25px;
+}
